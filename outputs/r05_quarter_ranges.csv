@@ -1,0 +1,21 @@
+method,promo_type,quarter,rows,uplift_pct
+A,display + mailer,Q1,52201,209.6
+A,display + mailer,Q2,88400,207.9
+A,display + mailer,Q3,82089,207.8
+A,display + mailer,Q4,54897,194.4
+A,display only,Q1,72032,64.0
+A,display only,Q2,165567,55.7
+A,display only,Q3,151971,51.0
+A,display only,Q4,118076,84.5
+B,display only,Q1,155266,31.1
+B,display only,Q2,164303,31.3
+B,display only,Q3,165611,32.4
+B,display only,Q4,121793,39.2
+C,mailer (product-week),Q1,7513,125.9
+C,mailer (product-week),Q2,13201,127.0
+C,mailer (product-week),Q3,13676,107.3
+C,mailer (product-week),Q4,10811,118.6
+A,mailer only,Q1,245458,98.8
+A,mailer only,Q2,413739,98.6
+A,mailer only,Q3,438837,83.6
+A,mailer only,Q4,312474,82.4

@@ -1,0 +1,4 @@
+promo_type,promoted_rows,pct_evaluable_by_A,pct_no_clean_week_before,pct_fewer_than_4_clean,pct_clean_weeks_too_old
+display + mailer,357509,82.1,5.4,12.2,5.8
+display only,823352,68.5,9.9,15.8,15.8
+mailer only,1575680,91.5,2.2,7.5,1.0

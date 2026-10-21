@@ -1,0 +1,8 @@
+placebo,rows,uplift_pct
+A: all clean weeks as fake promotions,24744598,0.6
+A: clean week just before a display only week,182188,30.6
+A: clean week just before a display + mailer week,180172,11.6
+A: clean week just before a mailer only week,1057466,6.5
+B: random half of stores in unpromoted product-weeks,5756364,0.8
+C: clean product-weeks vs other-category control,2187898,4.4
+C: clean product-week just before a mailer week,30740,6.5

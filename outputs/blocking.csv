@@ -1,0 +1,6 @@
+test,failures
+spine key is unique,0.0
+spine rows = pairs x weeks,0.0
+spine net sales reconcile to clean transactions (cents),0.0
+promo flags unique after collapsing duplicates,0.0
+shelf value >= net value on every row,0.0

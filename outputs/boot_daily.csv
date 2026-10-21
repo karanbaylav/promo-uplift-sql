@@ -1,0 +1,10 @@
+event_week,part,uplift_pct,lo,hi
+-2,Mon-Thu,6.9,-0.9,15.4
+-2,Fri-Sun,-2.0,-10.4,7.3
+-2,late minus early (points),-9.0,-20.5,2.9
+-1,Mon-Thu,13.5,4.0,23.0
+-1,Fri-Sun,29.1,19.8,39.4
+-1,late minus early (points),15.6,0.8,30.0
+0,Mon-Thu,59.6,49.4,69.3
+0,Fri-Sun,49.2,39.3,59.6
+0,late minus early (points),-10.4,-23.3,3.0

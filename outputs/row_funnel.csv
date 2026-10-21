@@ -1,0 +1,7 @@
+step,rows,net_sales
+all transaction rows,1469307,4596040.0
+in the 112 promotion stores,1450275,4531026.0
+... and weeks 2-53,1446581,4520642.0
+... dropped: quantity = 0,8773,13.0
+... dropped: value = 0 (qty > 0),2390,0.0
+clean rows (tx_clean),1435418,4520629.0

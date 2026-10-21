@@ -1,0 +1,7 @@
+method,promo_type,weeks,median_weekly_uplift_pct,p25,p75,min_pct,max_pct
+A,display + mailer,45,197.5,175.2,236.9,129.7,326.3
+A,display only,45,55.9,50.5,75.9,22.9,187.0
+B,display only,49,32.9,27.3,37.4,17.6,55.4
+C,mailer (product-week),45,123.2,109.3,138.9,55.6,164.1
+A,mailer only,45,93.6,77.8,107.2,51.5,143.6
+B,mailer only,3,-7.5,-8.4,21.9,-9.2,51.3

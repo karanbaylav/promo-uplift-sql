@@ -1,0 +1,7 @@
+department,episodes,uplift_upper_pct,uplift_lower_pct,usual_discount_pct,display_discount_pct,breakeven_30_upper,breakeven_40_upper
+PASTRY,455,125.4,85.9,7.3,10.5,24.6,39.0
+MEAT-PCKGD,1197,107.2,70.9,14.2,25.5,-5.8,10.3
+DRUG GM,4607,89.7,56.5,10.1,16.8,8.0,19.7
+NUTRITION,494,49.4,23.2,12.5,20.4,-2.0,5.3
+PRODUCE,658,49.4,23.3,5.9,12.6,4.2,10.6
+GROCERY,22952,47.2,21.4,12.6,20.7,-2.6,4.5

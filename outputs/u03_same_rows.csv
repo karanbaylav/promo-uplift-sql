@@ -1,0 +1,4 @@
+promo_type,rows,uplift_A_pct,uplift_B_pct
+display + mailer,237,100.0,69.1
+display only,386612,43.1,41.7
+mailer only,4016,35.8,39.1

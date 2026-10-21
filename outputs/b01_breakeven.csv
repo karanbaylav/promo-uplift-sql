@@ -1,0 +1,7 @@
+bound,gross_margin_scenario,net_sales_uplift_pct,shelf_value_uplift_pct,breakeven_cost_pct_of_normal_weekly_sales
+upper (B as measured),0.2,56.0,71.5,-9.3
+upper (B as measured),0.3,56.0,71.5,-1.1
+upper (B as measured),0.4,56.0,71.5,7.0
+lower (week-before jump = targeting),0.2,28.7,41.5,-9.2
+lower (week-before jump = targeting),0.3,28.7,41.5,-4.5
+lower (week-before jump = targeting),0.4,28.7,41.5,0.3

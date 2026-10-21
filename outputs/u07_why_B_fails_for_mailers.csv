@@ -1,0 +1,4 @@
+promo_type,median_share_of_stores_promoted,median_control_stores,control_stores_actual_vs_usual,naive_uplift_B_pct
+display + mailer,0.981,3.0,0.23,4101.0
+display only,0.222,34.0,1.13,40.0
+mailer only,0.981,3.0,0.27,3129.0
